@@ -1,7 +1,7 @@
 /*
  * https://leetcode.com/problems/climbing-stairs/
  */
-
+// Throws TLE
 public class ClimbingStairs {
     public static int solveStair(int currStair, int n) {
         if(currStair == n)
