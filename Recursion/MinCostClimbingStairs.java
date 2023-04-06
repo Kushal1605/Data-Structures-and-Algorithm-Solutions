@@ -2,6 +2,7 @@
  * https://leetcode.com/problems/min-cost-climbing-stairs/
  */
 
+// Throws TLE
 public class MinCostClimbingStairs {
 
     public static int solveStair(int [] cost, int n) {
